@@ -673,5 +673,17 @@
 		"color": "#696969",
 		"background": "#e291f2",
 		"count": 1
-	}	
+	},
+	{
+		"text": "$player: Attempt to seduce another player. If they get aroused they have to take 5 sips, if not you take 5.",
+		"color": "#b444d4",
+		"background": "#a82422",
+		"count": 1
+	},
+	{
+		"text": "Everyone has to something sexy, the most sexy one doesn't need to drink, while all others have to take a shot",
+		"color": "#b444d4",
+		"background": "#a82422",
+		"count": 1
+	}
 ]
